@@ -1,0 +1,4 @@
+- Integrated with AirConsole and Floflis 20 DualScreen API
+- XBox and Playstation remote play+APIs
+- https://dev.to/mathewthe2/intro-to-nintendo-switch-rest-api-2cm7, https://yui-spl2.medium.com/intro-to-nintendo-switch-rest-api-d91347d3e869, https://learn.microsoft.com/en-us/rest/api/playfab/client/account-management/link-nintendo-service-account?view=playfab-rest, https://fusionauth.io/docs/v1/tech/apis/identity-providers/nintendo, https://github.com/ZekeSnider/NintendoSwitchRESTAPI/blob/master/NintendoAccountBlueprint.md
+- Kodi/RetroArch
