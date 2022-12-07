@@ -1,1 +1,4 @@
-- Integrated with AirConsole and Floflis 20 DualScreen API
+- Orange Pi One H3 Quad-Core
+- FloflisOS ARM edition with Entertainment mode
+- Work as a digital TV conversor
+- Work as a capture board
