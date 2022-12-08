@@ -2,3 +2,4 @@
 - FloflisOS ARM edition with Entertainment mode
 - Work as a digital TV conversor
 - Work as a capture board
+- Work as sliding car sound/media central (both for panel and for seats) [link to https://github.com/Plasmmer/meta.git/Papers/28-03-2021 - 31-03-2021/2022-11-02_174829.pdf]
